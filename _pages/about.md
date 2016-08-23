@@ -6,4 +6,4 @@ sitemap: false
 permalink: /about.html
 ---
 
-About
+Desde archivo _pages/about.md
