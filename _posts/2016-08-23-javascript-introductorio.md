@@ -1,4 +1,5 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: "Primer Post"
+layout: single
+excerpt: "Exceprt."
 ---
