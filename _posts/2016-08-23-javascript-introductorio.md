@@ -1,6 +1,6 @@
 ---
 title: Primera Entrada!
-layout: default
+layout: single
 excerpt: "Este es un texto resumen."
 ---
 
