@@ -1,6 +1,6 @@
 ---
 title: Primera Entrada!
-layout: post
+layout: default
 excerpt: "Este es un texto resumen."
 ---
 
