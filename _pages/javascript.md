@@ -1,6 +1,6 @@
 ---
 title: "Javascript"
-layout: single
+layout: post
 excerpt: "Javascript Tutorial Basico"
 sitemap: false
 permalink: /javascript.html
